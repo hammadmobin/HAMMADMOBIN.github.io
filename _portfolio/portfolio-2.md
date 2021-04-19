@@ -1,7 +1,7 @@
 ---
 title: "Satellite Image Feature Detection"
 excerpt: Our goal is to detect and classify the types of objects found in these regions.
-By using a U-Net Architecture. <br/><img src='1.png'>"
+By using a U-Net Architecture. <br/><img src='1.png' width='700' height='800'>"
 collection: portfolio
 ---
 
