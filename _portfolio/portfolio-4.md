@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 4"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Medical Insurance Premium Prediction"
+excerpt: "Medical Insurance Premium Prediction using Stochastic Variational Inference and by using probalistic programming langauge Pyro<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The purposes of this Project to look into different features to observe their relationship, and used a Bayesian learning approach on several features of individual such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium.
+
+By using Stochastic Variational Inference,HMC and Gaussian Process.
