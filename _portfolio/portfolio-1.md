@@ -1,6 +1,6 @@
 ---
 title: "Travel City Listing Website"
-excerpt: "Develop a city listing System by using the NodeJs and React<br/><img src='4.jpeg style="width:250px;"/>"
+excerpt: "Develop a city listing System by using the NodeJs and React<br/><img src='4.jpeg style="width:250px;" >"
 collection: portfolio
 ---
 
