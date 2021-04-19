@@ -1,6 +1,6 @@
 ---
 title: "Medical Insurance Premium Prediction"
-excerpt: "Medical Insurance Premium Prediction using Stochastic Variational Inference and by using probalistic programming langauge Pyro<br/><img src='2.png' >"
+excerpt: "Medical Insurance Premium Prediction using Stochastic Variational Inference and by using probalistic programming langauge Pyro<br/><img src='2.png' width='700' height='800' >"
 collection: portfolio
 ---
 
