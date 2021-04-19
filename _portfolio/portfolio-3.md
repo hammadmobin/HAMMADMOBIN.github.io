@@ -1,6 +1,6 @@
 ---
 title: "CodenCake (Developer Job portal)"
-excerpt: "A platform where a developer can access everything at one place. <br/><img src='13.png'>"
+excerpt: "A platform where a developer can access everything at one place. <br/><img src='13.png'  width='700' height='800' >"
 collection: portfolio
 ---
 
