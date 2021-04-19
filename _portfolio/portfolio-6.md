@@ -1,7 +1,7 @@
 ---
 title: "Game of Life Using Q learning : Reinforcement Learning"
 excerpt: "this project are meant to put obstacle and learn with the given environment.
-They update the state and rerun the algorithm <br/><img src='6.png'>"
+They update the state and rerun the algorithm <br/><img src='6.png' width='700' height='800' >"
 collection: portfolio
 ---
 
