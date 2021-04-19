@@ -85,13 +85,13 @@ author:
   bio              : "Research Analyst (Computer Vision and Big Data) and Software Engineer"
   location         : "Karachi, Pakistan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QF97Ca8AAAAJ&hl=en"
-  email            :
+  email            : "muhammadhammadmobin@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "https://codepen.io/hammadmobin"
   dribbble         :
   flickr           :
   facebook         :
