@@ -8,3 +8,5 @@ collection: portfolio
 In Game of life by using Q learning approach we develop a autonomous methods in which block find the best possible path and precise path to move into right destination by using Learning Rate and Discount Factor.
 
 Approach used: Bellman Equation,Markov Decision Process,Value iteration.
+
+Github : TBA
