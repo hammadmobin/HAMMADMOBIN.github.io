@@ -1,9 +1,6 @@
 ---
 title: "Satellite Image Feature Detection"
-excerpt: "In this Project, our project is with 1km x 1km satellite images in both 3-band and 16-band formats. Our goal is to
-detect and classify the types of objects found in these regions. 3- and 16-bands images There are two types of
-imagery spectral content provided in this competition. The 3-band images are the traditional RGB natural color
-images. The 16-band images contain spectral information by capturing wider wavelength channels.
+excerpt: Our goal is to detect and classify the types of objects found in these regions.
 By using a U-Net Architecture. <br/><img src='1.png'>"
 collection: portfolio
 ---
