@@ -9,6 +9,11 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+   <meta name="google-site-verification" content="Bv-hqqERe3xAjH-5xpclRuUYl18Flqv5ITI64NnfqSM" />
   </head>
 
   <body>
