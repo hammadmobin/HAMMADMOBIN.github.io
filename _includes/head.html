@@ -16,11 +16,16 @@
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
+  
+{%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <meta name="google-site-verification" content="Bv-hqqERe3xAjH-5xpclRuUYl18Flqv5ITI64NnfqSM" />
+  
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-
-  <meta name="google-site-verification" content="Bv-hqqERe3xAjH-5xpclRuUYl18Flqv5ITI64NnfqSM" />
 </head>
