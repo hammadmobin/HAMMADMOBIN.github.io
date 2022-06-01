@@ -16,8 +16,10 @@ main:
     url: /year-archive/
     
   - title: "CV"
-  url: "https://drive.google.com/file/d/1iGzjFrg3zY8UyrwPJAdXuHHd_hS440yL/view?usp=sharing"
- #   url: "https://drive.google.com/file/d/1iX07dHy7bzkt_vloAcQRcQW3GftVMdXS/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1iGzjFrg3zY8UyrwPJAdXuHHd_hS440yL/view?usp=sharing"
+
+
+#   url: "https://drive.google.com/file/d/1iX07dHy7bzkt_vloAcQRcQW3GftVMdXS/view?usp=sharing"
     
   # - title: "Guide"
    #  url: /markdown/
