@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduated student from the National University of Computer and Emerging Sciences (FAST) with a Bachelor of Science in Computer Science (2016-2020). Now I work as a Software Engineer at Trafix LLC (Fintech Solution Provider). My keen interest is in Machine Learning models and Probabilistic Programming. 
+I am a graduated student from the National University of Computer and Emerging Sciences (FAST) with a Bachelor of Science in Computer Science (2016-2020). Now I work as a Software Engineer at Reboot Technologies Pvt. Limited (Trafix LLC) (Fintech Solution Provider). My keen interest is in Machine Learning models and Probabilistic Programming. 
 
 Throughout my undergraduate studies, I had the opportunity to apply my knowledge and skills through various projects and internships. My final year project, which focused on utilizing software development methodologies and natural language processing techniques to solve problems within the freelance job market, was particularly rewarding. Under the guidance of  <a href="https://scholar.google.com/citations?hl=en&user=RgWKBwUAAAAJ">(Dr. Jawwad Ahmed Shamsi)</a>, I developed a name entity recognizer approach that sought to address the challenges faced by job applicants in the freelance industry.
 
