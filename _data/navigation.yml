@@ -1,5 +1,5 @@
 # main links links
-main:
+#main:
  # - title: "Certifications"
   #  url: /publications/
 
@@ -9,17 +9,40 @@ main:
  # - title: "Experience"
  #   url: /experience/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
 # - title: "Blog Posts"
  #  url: /year-archive/
     
-  - title: "CV"
-   url: "https://drive.google.com/file/d/1J7opf3GRxVZ7efnbG9VJIPyx7cjCmLis/view?usp=sharing"
+#  - title: "CV"
+ #  url: "https://drive.google.com/file/d/1J7opf3GRxVZ7efnbG9VJIPyx7cjCmLis/view?usp=sharing"
 
 
 #   url: "https://drive.google.com/file/d/1iX07dHy7bzkt_vloAcQRcQW3GftVMdXS/view?usp=sharing"
     
   # - title: "Guide"
    #  url: /markdown/
+
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
