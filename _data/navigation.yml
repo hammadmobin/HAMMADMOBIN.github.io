@@ -9,14 +9,14 @@ main:
  # - title: "Experience"
  #   url: /experience/    
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
- - title: "Blog Posts"
-   url: /year-archive/
+# - title: "Blog Posts"
+ #  url: /year-archive/
     
-  - title: "CV"
-   url: "https://drive.google.com/file/d/1J7opf3GRxVZ7efnbG9VJIPyx7cjCmLis/view?usp=sharing"
+ # - title: "CV"
+ #  url: "https://drive.google.com/file/d/1J7opf3GRxVZ7efnbG9VJIPyx7cjCmLis/view?usp=sharing"
 
 
 #   url: "https://drive.google.com/file/d/1iX07dHy7bzkt_vloAcQRcQW3GftVMdXS/view?usp=sharing"
