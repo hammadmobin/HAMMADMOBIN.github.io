@@ -123,6 +123,16 @@ include:
   - _pages
   - files
 exclude:
+  # hidden pages (not built, so their URLs return 404)
+  - _pages/talks.html
+  - _pages/talkmap.html
+  - _pages/publications.md
+  - _pages/portfolio.html
+  - _pages/teaching.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/archive-layout-with-content.md
+  - _pages/collection-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -176,16 +186,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
